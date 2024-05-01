@@ -11,6 +11,22 @@ nav {
     padding: 10px 0;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
 }
+#name1:hover{
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+}
+#name2:hover{
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+}
+#name3:hover{
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+}
+#name4:hover{
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+}
 .nav {
     max-width: 1200px;
     margin: 0 auto;
